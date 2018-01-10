@@ -1,0 +1,72 @@
+-----------Exception Details on  1/10/2018 1:18:32 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 1/10/2018 1:18:32 AM
+
+Error Line No : line 25
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:61090/Admin/CreateEvent
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  1/10/2018 1:24:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 1/10/2018 1:24:59 AM
+
+Error Line No : line 25
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:61090/Admin/CreateEvent
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  1/10/2018 1:26:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 1/10/2018 1:26:14 AM
+
+Error Line No : line 25
+
+Error Message: DbUpdateException
+
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: http://localhost:61090/Admin/CreateEvent
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

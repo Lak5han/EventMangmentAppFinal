@@ -1,0 +1,10 @@
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\Eventmanagement.dll.config
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\Eventmanagement.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\Eventmanagement.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\EntityFramework.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\EntityFramework.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\obj\Debug\Data Layer.csprojResolveAssemblyReference.cache
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\obj\Debug\Eventmanagement.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\obj\Debug\Eventmanagement.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\ExceptionLogging.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\Eventmanagement\bin\Debug\ExceptionLogging.pdb

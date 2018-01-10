@@ -1,0 +1,5 @@
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\ExceptionLogging\bin\Debug\ExceptionLogging.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\ExceptionLogging\bin\Debug\ExceptionLogging.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\ExceptionLogging\obj\Debug\ExceptionLogging.csprojResolveAssemblyReference.cache
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\ExceptionLogging\obj\Debug\ExceptionLogging.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\ExceptionLogging\obj\Debug\ExceptionLogging.pdb

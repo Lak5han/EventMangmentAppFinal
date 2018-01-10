@@ -1,0 +1,23 @@
+﻿@model IEnumerable<EventManagmentWeb.Models.EventDetailModel>
+
+@{
+    ViewBag.Title = "ListOfEvents";
+}
+
+
+
+
+<div class="gallery">
+    <div class="container">
+        <div class="gallery-grids">
+
+            @foreach (var item in Model)
+            {
+                @Html.Partial("~/Views/Admin/_eventDetailCard.cshtml", item);
+            }
+            <div class="clearfix"> </div>
+            <script src="js/lightbox-plus-jquery.min.js"> </script>
+        </div>
+    </div>
+</div>
+

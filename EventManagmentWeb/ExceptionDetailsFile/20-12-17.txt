@@ -1,0 +1,144 @@
+-----------Exception Details on  12/20/2017 8:07:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 8:07:07 AM
+
+Error Line No : line 19
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/20/2017 8:45:15 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 8:45:15 AM
+
+Error Line No : line 25
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/20/2017 8:45:58 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 8:45:58 AM
+
+Error Line No : line 25
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/20/2017 9:30:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 9:30:00 AM
+
+Error Line No : line 72
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/Home/CreateUser
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/20/2017 9:31:06 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 9:31:06 AM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/Admin/ListOfEvents
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/20/2017 9:39:48 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/20/2017 9:39:48 AM
+
+Error Line No : line 72
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/Home/CreateUser
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

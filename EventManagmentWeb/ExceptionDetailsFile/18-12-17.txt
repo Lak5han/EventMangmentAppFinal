@@ -1,0 +1,96 @@
+-----------Exception Details on  12/18/2017 10:39:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/18/2017 10:39:54 PM
+
+Error Line No : line 28
+
+Error Message: ProviderIncompatibleException
+
+Exception Type: System.Data.ProviderIncompatibleException
+
+Error Location : An error occurred while getting provider information from the database. This can be caused by Entity Framework using an incorrect connection string. Check the inner exceptions for details and ensure that the connection string is correct.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/18/2017 11:57:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/18/2017 11:57:07 PM
+
+Error Line No : line 72
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+
+ Error Page Url: http://localhost:61090/Home/CreateUser
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/18/2017 11:58:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/18/2017 11:58:06 PM
+
+Error Line No : line 72
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/18/2017 11:59:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/18/2017 11:59:29 PM
+
+Error Line No : line 72
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

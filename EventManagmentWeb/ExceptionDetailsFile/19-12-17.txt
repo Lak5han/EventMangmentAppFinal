@@ -1,0 +1,145 @@
+-----------Exception Details on  12/19/2017 7:26:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 7:26:54 AM
+
+Error Line No : line 38
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The model backing the 'EventmanagementDbContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/19/2017 8:29:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 8:29:25 PM
+
+Error Line No : line 52
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/19/2017 8:32:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 8:32:16 PM
+
+Error Line No : line 52
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/19/2017 8:32:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 8:32:17 PM
+
+Error Line No : line 67
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: s
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/19/2017 8:32:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 8:32:37 PM
+
+Error Line No : line 52
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/19/2017 8:33:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/19/2017 8:33:51 PM
+
+Error Line No : line 52
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot drop database "Eventmanagement" because it is currently in use.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

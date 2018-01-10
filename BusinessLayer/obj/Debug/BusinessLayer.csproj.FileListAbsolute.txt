@@ -1,0 +1,24 @@
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\Eventmanagement.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\Eventmanagement.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\EntityFramework.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\ExceptionLogging.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\BusinessLayer\bin\Debug\ExceptionLogging.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\Eventmanagement.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\ExceptionLogging.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\Eventmanagement.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\ExceptionLogging.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.pdb

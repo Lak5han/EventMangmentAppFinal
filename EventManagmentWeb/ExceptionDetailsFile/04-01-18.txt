@@ -1,0 +1,48 @@
+-----------Exception Details on  1/4/2018 1:22:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 1/4/2018 1:22:21 AM
+
+Error Line No : line 25
+
+Error Message: EntityException
+
+Exception Type: System.Data.EntityException
+
+Error Location : The underlying provider failed on Open.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  1/4/2018 1:48:02 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 1/4/2018 1:48:02 AM
+
+Error Line No : line 25
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Sequence contains no elements
+
+ Error Page Url: http://localhost:61090/Home/CreateUser
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,45 @@
+﻿@model EventManagmentWeb.Models.EventDetailModel
+
+<div class="col-md-4 gallery-grid">
+    <div class="grid">
+        <figure class="effect-apollo">
+            <a class="example-image-link" href="~/images/Event.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+                @Model.EventName
+                <img src="~/images/Event.jpg" alt="" />
+                @Model.EventDescription
+                <figcaption></figcaption>
+            </a>
+        </figure>
+    </div>
+</div>
+<script src="js/lightbox-plus-jquery.min.js"> </script>
+<script src="~/Scripts/modernizr.custom.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+	  $('#nivo-lightbox-demo a').nivoLightbox({ effect: 'fade' });
+	});
+</script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear'
+				};
+			*/
+
+			$().UItoTop({ easingType: 'easeOutQuart' });
+
+			});
+</script>
+<script type="text/javascript">
+		/* init Jarallax */
+		$('.jarallax').jarallax({
+			speed: 0.5,
+			imgWidth: 1366,
+			imgHeight: 768
+		})
+</script>

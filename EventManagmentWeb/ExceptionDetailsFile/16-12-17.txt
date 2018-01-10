@@ -1,0 +1,120 @@
+-----------Exception Details on  12/16/2017 6:36:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/16/2017 6:36:54 PM
+
+Error Line No : line 19
+
+Error Message: ProviderIncompatibleException
+
+Exception Type: System.Data.ProviderIncompatibleException
+
+Error Location : An error occurred while getting provider information from the database. This can be caused by Entity Framework using an incorrect connection string. Check the inner exceptions for details and ensure that the connection string is correct.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/16/2017 6:52:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/16/2017 6:52:31 PM
+
+Error Line No : line 19
+
+Error Message: ProviderIncompatibleException
+
+Exception Type: System.Data.ProviderIncompatibleException
+
+Error Location : An error occurred while getting provider information from the database. This can be caused by Entity Framework using an incorrect connection string. Check the inner exceptions for details and ensure that the connection string is correct.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/16/2017 7:18:17 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/16/2017 7:18:17 PM
+
+Error Line No : line 26
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The context cannot be used while the model is being created.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/16/2017 7:25:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/16/2017 7:25:54 PM
+
+Error Line No : line 26
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The context cannot be used while the model is being created.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12/16/2017 10:15:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12/16/2017 10:15:07 PM
+
+Error Line No : line 26
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The context cannot be used while the model is being created.
+
+ Error Page Url: http://localhost:61090/
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

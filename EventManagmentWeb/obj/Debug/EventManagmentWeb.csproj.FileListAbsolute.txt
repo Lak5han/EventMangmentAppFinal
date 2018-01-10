@@ -1,0 +1,106 @@
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\ApplicationInsights.config
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\csc.exe
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\vbc.exe
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\EventManagmentWeb.dll.config
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\EventManagmentWeb.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\EventManagmentWeb.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\BusinessLayer.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.Web.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Helpers.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Mvc.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Razor.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.Deployment.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.Razor.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Eventmanagement.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\ExceptionLogging.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\BusinessLayer.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.Web.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Razor.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.Deployment.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Webpages.Razor.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Helpers.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\System.Web.Mvc.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\Eventmanagement.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\EntityFramework.xml
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\bin\ExceptionLogging.pdb
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\obj\Debug\EventManagmentWeb.csprojResolveAssemblyReference.cache
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\obj\Debug\EventManagmentWeb.dll
+c:\users\lakshan\documents\visual studio 2015\Projects\Data Layer\EventManagmentWeb\obj\Debug\EventManagmentWeb.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\ApplicationInsights.config
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\csc.exe
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\vbc.exe
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\EventManagmentWeb.dll.config
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\EventManagmentWeb.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\EventManagmentWeb.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\BusinessLayer.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Eventmanagement.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Helpers.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Mvc.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Razor.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\ExceptionLogging.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\BusinessLayer.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Eventmanagement.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\EntityFramework.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Razor.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Helpers.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\System.Web.Mvc.xml
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\bin\ExceptionLogging.pdb
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\obj\Debug\EventManagmentWeb.csprojResolveAssemblyReference.cache
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\obj\Debug\EventManagmentWeb.dll
+C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\EventManagmentWeb\obj\Debug\EventManagmentWeb.pdb
