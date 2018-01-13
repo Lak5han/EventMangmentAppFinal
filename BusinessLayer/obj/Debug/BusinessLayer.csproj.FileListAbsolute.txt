@@ -22,3 +22,15 @@ C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\Business
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\EntityFramework.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\Eventmanagement.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\ExceptionLogging.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\Eventmanagement.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\ExceptionLogging.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\bin\Debug\EntityFramework.xml
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -14,6 +14,7 @@ namespace BusinessLayer.BusinessModel
         public string UserName { get; set; }
         public string Password { get; set; }
         public Nullable<int> CollageID { get; set; }
+        public Nullable<int> RoleID { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime MdifiedDate { get; set; }
     }

@@ -162,18 +162,24 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionFilters\StudentAuthorizeAttribute.cs" />
+    <Compile Include="ActionFilters\TeacherAuthorizeAttribute.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\CustomAuthorizeAttribute.cs" />
     <Compile Include="Controllers\ApplicationHomeController.cs" />
     <Compile Include="Controllers\MyActionAttribute.cs" />
     <Compile Include="Controllers\StaticMethod.cs" />
+    <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="Controllers\TeacherController.cs" />
     <Compile Include="Controllers\UserIDCheckActionAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Collage.cs" />
     <Compile Include="Models\EventDetailModel.cs" />
+    <Compile Include="Models\EventRegistrationmarkModel.cs" />
+    <Compile Include="Models\RoleModel.cs" />
     <Compile Include="Models\UserProfile.cs" />
     <Compile Include="Models\UserRoleDetailsModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -194,6 +200,9 @@
     <Content Include="Views\ApplicationHome\CreateUser.cshtml" />
     <Content Include="Views\Admin\ListOfEvents.cshtml" />
     <Content Include="Views\Admin\_eventDetailCard.cshtml" />
+    <Content Include="Views\Student\Index.cshtml" />
+    <Content Include="Views\Teacher\RegistrationMarks.cshtml" />
+    <Content Include="Views\Teacher\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -169,5 +169,77 @@ namespace BusinessLayer
             }
             return usermodel;
         }
+        public List<RolesBusinessModel> GetAllRole()
+        {
+            List<RolesBusinessModel> usermodel = new List<RolesBusinessModel>();
+            List<Role> userRoles = new List<Role>();
+            try
+            {
+                userRoles = applicationLevelDataBaseOps.GetAllRoles();
+                foreach (Role item in userRoles)
+                {
+                    RolesBusinessModel newRole = new RolesBusinessModel
+                    {
+                        RoleID = item.RoleID,
+                        RoleName = item.RoleName
+                    };
+                    usermodel.Add(newRole);
+                }
+            }
+            catch (Exception ex)
+            {
+                usermodel = new List<RolesBusinessModel>();
+                ExceptionTracker.SendErrorToText(ex);
+            }
+            return usermodel;
+        }
+
+        public EventDetailBusinessModel GetEventDetailById(int id)
+        {
+            EventDetail eventEntity = new EventDetail();
+            EventDetailBusinessModel eventItem;
+            try
+            {
+                eventEntity = applicationLevelDataBaseOps.GetEventDetailById(id);
+                eventItem = new EventDetailBusinessModel
+                {
+                    EventName = eventEntity.EventName,
+                    EventDate = eventEntity.EventDate,
+                    EventDescription = eventEntity.EventDescription,
+                    EventDetailID = eventEntity.EventDetailID,
+                    EventType = eventEntity.EventType,
+                    CollageID = eventEntity.CollageID
+                };
+            }
+            catch (Exception ex)
+            {
+                eventItem = new EventDetailBusinessModel();
+                ExceptionTracker.SendErrorToText(ex);
+            }
+            
+            return eventItem;
+        }
+
+        public UserBusinessModel GetUserDetailByUserId(int id)
+        {
+            User UserDetail = new User();
+            UserBusinessModel userBusinessModel;
+            try
+            {
+                UserDetail = applicationLevelDataBaseOps.GetUserDetailByUserId(id);
+                userBusinessModel = new UserBusinessModel
+                {
+                    FirstName = UserDetail.FirstName,
+                    LastName = UserDetail.LastName,
+                    UserID = UserDetail.UserID
+                };
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+                userBusinessModel = new UserBusinessModel();
+            }
+            return userBusinessModel;
+        }
     }
 }

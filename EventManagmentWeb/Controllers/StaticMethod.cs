@@ -29,5 +29,24 @@ namespace EventManagmentWeb.Controllers
             }
             return alCollages;
         }
+
+        public static List<RoleModel> GetAllUserRoles()
+        {
+            List<RolesBusinessModel> listOfRole = new List<RolesBusinessModel>();
+            List<RoleModel> allRoles = new List<RoleModel>();
+            listOfRole = aplicationLEvelBusinessOperation.GetAllRole();
+
+
+            foreach (RolesBusinessModel item in listOfRole)
+            {
+                RoleModel roleItem = new RoleModel
+                {
+                    RoleID = item.RoleID,
+                    RoleName = item.RoleName
+                };
+                allRoles.Add(roleItem);
+            }
+            return allRoles;
+        }
     }
 }

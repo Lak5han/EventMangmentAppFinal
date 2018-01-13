@@ -3,15 +3,26 @@
 <div class="col-md-4 gallery-grid">
     <div class="grid">
         <figure class="effect-apollo">
+            
             <a class="example-image-link" href="~/images/Event.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
                 @Model.EventName
                 <img src="~/images/Event.jpg" alt="" />
                 @Model.EventDescription
                 <figcaption></figcaption>
-            </a>
+            </a>            
         </figure>
+
+        @if (Convert.ToString(Session["UserRole"]) == "Student")
+        {
+            @Html.ActionLink("Register", "RegisterStudent", "Student", new { id = Model.EventDetailID }, null)
+        }
+        @if (Convert.ToString(Session["UserRole"]) == "Teacher")
+        {
+            @Html.ActionLink("Attendence Mark", "RegistrationMarks", "Teacher", new { id = Model.EventDetailID }, null)
+        }
     </div>
 </div>
+
 <script src="js/lightbox-plus-jquery.min.js"> </script>
 <script src="~/Scripts/modernizr.custom.js"></script>
 

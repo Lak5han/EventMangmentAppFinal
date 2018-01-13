@@ -31,18 +31,35 @@ namespace DataLayer
             }
         }
 
-        public void CreaeUser(User userDetail)
+        public User CreaeUser(User userDetail)
         {
             try
             {
                 db.Users.Add(userDetail);
                 db.SaveChanges();
+                return userDetail;                
             }
             catch (Exception ex)
             {
                 ExceptionTracker.SendErrorToText(ex);
+                return new User();
             }
         }
-        
+
+        public UserRole CreateUserRole(UserRole userRole)
+        {
+            try
+            {
+                db.UserRoles.Add(userRole);
+                db.SaveChanges();
+                return userRole;
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+                return new UserRole();
+            }
+        }
+
     }
 }

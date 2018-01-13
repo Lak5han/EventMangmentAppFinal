@@ -41,13 +41,27 @@ namespace Eventmanagement.DataBaseOperatios
             UserRole userdetails = new UserRole();
             try
             {
-                userdetails = db.UserRoles.Where(c => c.User.UserID == userID).FirstOrDefault();
+                userdetails = db.UserRoles.Where(c => c.UderID == userID).FirstOrDefault();
             }
             catch (Exception ex)
             {
                 ExceptionTracker.SendErrorToText(ex);
             }
             return userdetails;
+        }
+
+        public List<Role> GetAllRoles()
+        {
+            List<Role> userRoles = new List<Role>();
+            try
+            {
+                userRoles = db.Roles.ToList();
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+            }
+            return userRoles;
         }
 
         public List<EventDetail> GetAllEventDetail()
@@ -90,6 +104,33 @@ namespace Eventmanagement.DataBaseOperatios
                 ExceptionTracker.SendErrorToText(ex);
             }
             return role;
+        }
+        public EventDetail GetEventDetailById(int id)
+        {
+            EventDetail eventDetail = new EventDetail();
+            try
+            {
+                eventDetail = db.EventDetails.Where(c => c.EventDetailID == id).FirstOrDefault();
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+            }
+            return eventDetail;
+        }
+
+        public User GetUserDetailByUserId(int id)
+        {
+            User UserDetail = new User();
+            try
+            {
+                UserDetail = db.Users.Where(c => c.UserID == id).FirstOrDefault();
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+            }
+            return UserDetail;
         }
     }
 }

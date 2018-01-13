@@ -50,9 +50,14 @@
     <Compile Include="ApplicationLEvelBusinessOperation.cs" />
     <Compile Include="BusinessModel\CollageBusinessModel.cs" />
     <Compile Include="BusinessModel\EventDetailBusinessModel.cs" />
+    <Compile Include="BusinessModel\EventRegistrationBusinessModel.cs" />
+    <Compile Include="BusinessModel\RolesBusinessModel.cs" />
     <Compile Include="BusinessModel\UserBusinessModel.cs" />
     <Compile Include="BusinessModel\UserRoleBusinessModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticBusinessMethods.cs" />
+    <Compile Include="StudentBusinessOperations.cs" />
+    <Compile Include="TeacherLEvelBusinessOperation.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Eventmanagement\DataLayer.csproj">

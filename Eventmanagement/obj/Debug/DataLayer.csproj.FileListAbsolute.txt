@@ -18,3 +18,13 @@ C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\Eventman
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\Eventmanagement\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\Eventmanagement\obj\Debug\Eventmanagement.dll
 C:\Users\Lakshan\Documents\Visual Studio 2015\Projects\EventMangmentApp\Eventmanagement\obj\Debug\Eventmanagement.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\Eventmanagement.dll.config
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\Eventmanagement.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\Eventmanagement.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\EntityFramework.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\ExceptionLogging.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\ExceptionLogging.pdb
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\bin\Debug\EntityFramework.xml
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\obj\Debug\Eventmanagement.dll
+F:\A trackiex Practical Test\orginal\EventMangmentApp\Eventmanagement\obj\Debug\Eventmanagement.pdb

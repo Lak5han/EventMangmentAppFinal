@@ -20,5 +20,10 @@ namespace DataLayer
         public virtual Collage Collage { get; set; }
         public virtual ICollection<EventRegistration> EventRegistrations { get; set; }
         public virtual ICollection<EventRound> EventRounds { get; set; }
+
+        public static implicit operator EventDetail(Role v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

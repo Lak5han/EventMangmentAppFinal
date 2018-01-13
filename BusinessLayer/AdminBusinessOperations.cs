@@ -56,6 +56,8 @@ namespace BusinessLayer
         public void CreaeUser(UserBusinessModel userDetail)
         {
             User UserDetails = applicationLevelDataBaseOps.GetUserDetailByUserName(userDetail.UserName);
+            int roleID = Convert.ToInt32(userDetail.RoleID);
+            UserBusinessModel returnObject = new UserBusinessModel();
             if (UserDetails != null)
             {
                 try
@@ -70,7 +72,22 @@ namespace BusinessLayer
                         CreateDate = DateTime.Now,
                         MdifiedDate = DateTime.Now
                     };
-                    adminDataBaseOperation.CreaeUser(user);
+                    
+                    List<User> userEntity = new List<User>();
+                    userEntity.Add(adminDataBaseOperation.CreaeUser(user));
+                    returnObject = StaticBusinessMethods.userDetailConvertTOBModel(userEntity).FirstOrDefault();
+
+                    //UserRole userRole = applicationLevelDataBaseOps.GetUserRolebyUserID(1002);
+                    Role role = applicationLevelDataBaseOps.GetRoleDetailsByID(roleID);
+                    UserRole newUserRole = new UserRole
+                    {
+                        RoleID = roleID, 
+                        UderID = returnObject.UserID,
+                        CreateDate = DateTime.Now,
+                        MdifiedDate = DateTime.Now
+                    };
+                    if (role != null)
+                        adminDataBaseOperation.CreateUserRole(newUserRole);
                 }
                 catch (Exception ex)
                 {

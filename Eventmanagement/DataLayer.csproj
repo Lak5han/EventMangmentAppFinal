@@ -49,6 +49,8 @@
     <Compile Include="AdminDataBaseOperation.cs" />
     <Compile Include="Collage.cs" />
     <Compile Include="DataBaseOperatios\ApplicationLevelDataBaseOps.cs" />
+    <Compile Include="DataBaseOperatios\StudentLevelDataBaseOps.cs" />
+    <Compile Include="DataBaseOperatios\TeacherLevelDataBaseOps.cs" />
     <Compile Include="EventDetails.cs" />
     <Compile Include="EventmanagementDbContext.cs" />
     <Compile Include="EventRegistration.cs" />
