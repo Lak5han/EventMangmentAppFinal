@@ -49,7 +49,7 @@
             @Html.DisplayFor(modelItem => item.LastName)
         </td>
         <td>
-            @Html.EditorFor(modelItem => item.UserAttendance, new { @class = "cbk", hd = item.EventRegistrationID })
+            @Html.CheckBoxFor(modelItem => item.UserAttendance, new { @class = "cbk", hd = item.EventRegistrationID, onchange = "functions(this)" })
         </td>        
     </tr>
 }
@@ -58,8 +58,32 @@
 @*}*@
 
 <script type="text/javascript">
+
+    function functions(checkboxElem) {
+        var UserAttendance = "True";
+        if (checkboxElem.checked) {
+             UserAttendance = "True";
+        } else {
+             UserAttendance = "False";
+        }
+        $("input[type = 'checkbox']").each(function () {
+            var c = $(this).is(":checked");
+            if (c) {
+                var t = $(this).attr("hd");
+                $.ajax({
+                    type: "Get",
+                    url: '@Url.Action("UpdateRegistrationMarks", "Teacher")',
+                    data: { EventRegistrationID: $(this).attr("hd"), UserAttendance: UserAttendance },
+                    dataType: "json",
+                    success: function (data) {
+                    }
+                })
+            }
+        })
+    }
     $(document).ready(function () {
         $(".cbk").change(function () {
+            alert("");
             var select = "";
             $("input[type = 'checkbox']").each(function () {
                 var c = $(this).is(":checked");
@@ -73,8 +97,6 @@
                         success: function (data) {                            
                         }
                     })
-                } else {
-                    $("#txt").val(select)
                 }
             })
         })
