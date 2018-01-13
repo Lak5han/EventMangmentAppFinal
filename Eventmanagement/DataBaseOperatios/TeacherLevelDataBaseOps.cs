@@ -25,5 +25,18 @@ namespace Eventmanagement.DataBaseOperatios
 
             return EventRegistrationList;
         }
+
+        public void UpdateAttendance(EventRegistration attendance)
+        {
+            try
+            {
+                db.EventEventRegistrations.Add(attendance);
+                db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                ExceptionTracker.SendErrorToText(ex);
+            }
+        }
     }
 }

@@ -12,7 +12,7 @@ namespace BusinessLayer
 {
     public class TeacherLEvelBusinessOperation
     {
-        private TeacherLevelDataBaseOps adminDataBaseOperation = new TeacherLevelDataBaseOps();
+        private TeacherLevelDataBaseOps teacherBaseOperation = new TeacherLevelDataBaseOps();
 
         public List<EventRegistrationBusinessModel> UserEventRegistration(int id)
         {
@@ -20,7 +20,7 @@ namespace BusinessLayer
             List<EventRegistration> EventRegistrationListEntity = new List<EventRegistration>();
             try
             {
-                EventRegistrationListEntity = adminDataBaseOperation.ListofEventRegistration(id);
+                EventRegistrationListEntity = teacherBaseOperation.ListofEventRegistration(id);
                 foreach (EventRegistration item in EventRegistrationListEntity)
                 {
                     EventRegistrationBusinessModel EventRegistrationItemt = new EventRegistrationBusinessModel
@@ -39,6 +39,17 @@ namespace BusinessLayer
             }
 
             return EventRegistrationList;
+        }
+
+        public void UpdateAttendance(EventRegistrationBusinessModel attendance)
+        {
+            EventRegistration attendanceEntity = new EventRegistration
+            {
+                EventRegistrationID = attendance.EventRegistrationID,
+                UserAttendance = attendance.UserAttendance,
+                MdifiedDate =DateTime.Now
+            };
+            teacherBaseOperation.UpdateAttendance(attendanceEntity);
         }
     }
 }

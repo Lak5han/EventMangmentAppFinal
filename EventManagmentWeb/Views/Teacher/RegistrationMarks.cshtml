@@ -9,8 +9,8 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-@using (Html.BeginForm())
-{ 
+@*@using (Html.BeginForm())
+{*@ 
 <div class="form-group">
     <div class="col-md-offset-2 col-md-10">
         <input type="submit" value="Save" class="btn btn-default" />
@@ -49,10 +49,34 @@
             @Html.DisplayFor(modelItem => item.LastName)
         </td>
         <td>
-            @Html.EditorFor(modelItem => item.UserAttendance)
+            @Html.EditorFor(modelItem => item.UserAttendance, new { @class = "cbk", hd = item.EventRegistrationID })
         </td>        
     </tr>
 }
 
 </table>
-}
+@*}*@
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".cbk").change(function () {
+            var select = "";
+            $("input[type = 'checkbox']").each(function () {
+                var c = $(this).is(":checked");
+                if (c) {
+                    var t = $(this).attr("hd");
+                    $.ajax({
+                        type: "Get",
+                        url: '@Url.Action("UpdateRegistrationMarks", "Teacher")',
+                        data: { EventRegistrationID: $(this).attr("hd") },
+                        dataType: "json",
+                        success: function (data) {                            
+                        }
+                    })
+                } else {
+                    $("#txt").val(select)
+                }
+            })
+        })
+    })
+</script>

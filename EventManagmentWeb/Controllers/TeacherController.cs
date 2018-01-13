@@ -53,10 +53,17 @@ namespace EventManagmentWeb.Controllers
             return View(EventRegistrationmarkList);
         }
 
-        [HttpPost]
-        public ActionResult RegistrationMarks(List<EventRegistrationmarkModel> ListOfRegistration)
+        
+        public JsonResult UpdateRegistrationMarks(int EventRegistrationID,bool UserAttendance)
         {
-            return View("Index");
+            EventRegistrationBusinessModel attendance = new EventRegistrationBusinessModel
+            {
+                EventRegistrationID = EventRegistrationID,
+                UserAttendance = UserAttendance
+            };
+            teacherLEvelBusinessOperation.UpdateAttendance(attendance);
+
+            return new JsonResult { Data = attendance, JsonRequestBehavior = JsonRequestBehavior.AllowGet };
         }
     }
 }
